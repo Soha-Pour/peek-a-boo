@@ -23,3 +23,15 @@
 .red-background {
   background-color: red;
 }
+
+.charcol-background {
+  background-color: #36454f;
+}
+
+.white-text {
+  color: white;
+}
+
+.boxed {
+  border: 2px solid gray;
+}

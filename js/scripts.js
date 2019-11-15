@@ -23,5 +23,16 @@ $(document).ready(function() {
     $("body").addClass("red-background");
   });
 
+  $("button#dark-mode").click(function() {
+    $("body").removeClass();
+    $("body").addClass("charcol-background");
+    $("body").addClass("white-text")
+  });
+
+  $(".box-it").click(function() {
+    $(".box-it").addClass("boxed");
+  });
+
+
 
 });
